@@ -1,0 +1,11 @@
+Data：
+{"text": "三十不惑，来源于中国春秋时期一部语录体散文集《论语》，原出处的语句是：“三十而立，四十而不惑”。其意就是三十岁进入了而立之年的意思。", "label": {"entity": {"春秋时期": [[10, 13]], "论语": [[23, 24]]}}}
+{"text": "博科FWS648G-EPREM是博科品牌下的一款交换机。", "label": {"entity": {"交换机": [[24, 26]]}}}
+
+Entity Type：
+B-entity
+I-entity
+E-entity
+S-entity
+O
+其中B-entity表示实体的开头、I-entity表示实体的中间、E-entity表示实体的结束、S-entity表示单个实体、O表示文本中的其他成分。
